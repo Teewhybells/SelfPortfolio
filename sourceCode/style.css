@@ -1,0 +1,27 @@
+/* .pic{
+    width: 220px;
+    height: 210px;
+    border: 1px solid black; 
+    display: flex;
+    align-items: flex-start;
+  }
+ */
+  .image{
+    /* padding: 60px 40px; */
+    width: 220px;
+    height: 210px;
+    border: 1px solid black; 
+    display: flex;
+    /* align-items: flex-start; */
+    float: left;
+}
+
+
+  .word{
+    margin-top: 20px;
+    padding: 30px 40px;
+    float: right;
+}
+.space{
+    padding-left: 30px;
+}
